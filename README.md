@@ -11,4 +11,3 @@ Other than that UNO pretty much functions exactly like normal, there are no diff
 Now for the AI, you can play with a bot against UNO and each win against the AI contributes to a win on your account that is stored in an SQL database, there is a leaderboard at the very main page of the top 5 players and their wins, congratulating the very first player in special golden text. There is account creation, logins and recovery. But the recovery improvements still need to take place (i.e. two step verification).
 
 That is pretty much all you have to know. I hope you have enjoyed my NEA project and have fun!
-Tha
